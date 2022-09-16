@@ -1,0 +1,14 @@
+C:\Users\Aeru\source\repos\MCC\MCC\bin\Debug\netcoreapp3.1\MCC.exe
+C:\Users\Aeru\source\repos\MCC\MCC\bin\Debug\netcoreapp3.1\MCC.deps.json
+C:\Users\Aeru\source\repos\MCC\MCC\bin\Debug\netcoreapp3.1\MCC.runtimeconfig.json
+C:\Users\Aeru\source\repos\MCC\MCC\bin\Debug\netcoreapp3.1\MCC.runtimeconfig.dev.json
+C:\Users\Aeru\source\repos\MCC\MCC\bin\Debug\netcoreapp3.1\MCC.dll
+C:\Users\Aeru\source\repos\MCC\MCC\bin\Debug\netcoreapp3.1\MCC.pdb
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.csproj.AssemblyReference.cache
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.AssemblyInfoInputs.cache
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.AssemblyInfo.cs
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.csproj.CoreCompileInputs.cache
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.dll
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.pdb
+C:\Users\Aeru\source\repos\MCC\MCC\obj\Debug\netcoreapp3.1\MCC.genruntimeconfig.cache
