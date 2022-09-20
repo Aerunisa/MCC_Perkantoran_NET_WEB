@@ -14,6 +14,7 @@ namespace MCC
         public double result;
         public double angka;
         public double angka2;
+
         public double CountingGaji()
         {
             if (jumlahAbsen == 0)
@@ -29,6 +30,21 @@ namespace MCC
              
             
         }
+       /* public double CountingGaji(double pajak= 0.25)
+        {
+            if (jumlahAbsen == 0)
+            {
+                result = (gajiUtama) -(gajiUtama*pajak)+ (lembur * bonus);
+                return result;
+            }
+            else
+            {
+                result = gajiUtama - (penalty * jumlahAbsen) + (lembur * bonus);
+                return result;
+            }
+
+
+        }*/
         public double Counting()
         {
             result = angka + angka2;
